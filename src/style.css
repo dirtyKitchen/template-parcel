@@ -79,6 +79,7 @@ select {
     max-width: 80rem;
 }
 
+/* Stlying for Screen Readers. Elements will not be visible on the browser but still available in DOM */
 .sr-only {
     position: absolute;
     width: 1px;
